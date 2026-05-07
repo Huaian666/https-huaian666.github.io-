@@ -117,7 +117,7 @@ Like Code 是一款本地代码编辑器，专注于 HTML 开发与预览。本�
 如对本隐私政策有任何疑问或建议，请通过以下方式联系开发者：
 
 **邮箱：1577319964@qq.com**
-
+© 2026 rongwei dai. All rights reserved
 ---
 
 ## English Version
@@ -235,5 +235,5 @@ If you have any questions or suggestions regarding this privacy policy, please c
 
 ---
 
-© 2026 Huaichuan. All rights reserved.
+© 2026 rongwei dai. All rights reserved
 ```
