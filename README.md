@@ -15,7 +15,7 @@
 
 ## 2. 概述
 
-Like Code 是一款本地代码编辑器，专注于 HTML 开发与预览。本应用的所有核心功能均在你的设备本地完成，不依赖外部服务器处理你的代码或个人信息。
+Like Code 是一款本地代码编辑器,ios，专注于 HTML 开发与预览。本应用的所有核心功能均在你的设备本地完成，不依赖外部服务器处理你的代码或个人信息。
 
 ## 3. 我们收集的数据
 
@@ -124,7 +124,7 @@ Like Code 是一款本地代码编辑器，专注于 HTML 开发与预览。本�
 
 ## 1. Data Controller
 
-This application is developed and operated by an independent developer (hereinafter referred to as “Developer”). If you have any questions about this privacy policy, please contact:
+This application is developed and operated by an independent developer (hereinafter referred to as “Developer”). iOS，If you have any questions about this privacy policy, please contact:
 
 **Email: 1577319964@qq.com**
 
